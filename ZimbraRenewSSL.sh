@@ -8,7 +8,7 @@
 #LETSDIR is the dir where letsencrypt scripts are located
 LETSDIR="/opt/scripts/letsencrypt"
 
-#CERTDIR is the dir where zimbra is located
+#ZIMDIR is the dir where zimbra is located
 ZIMDIR="/opt/zimbra"
 
 #FIRSTDOMAIN is the FQDN of the primary domain of this Zimbra server
